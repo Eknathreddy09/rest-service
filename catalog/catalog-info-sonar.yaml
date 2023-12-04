@@ -1,0 +1,6 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage
+  annotations:
+    sonarqube.org/project-key: http://40.64.92.68/sqa_3cec2eac33109265251cae4160e4345508bee16f
